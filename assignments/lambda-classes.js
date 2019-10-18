@@ -98,7 +98,7 @@ const studentTwo = new Student({
 })
 
 
-//PMs
+//Project Managers
 const pmOne = new ProjectManager({
     name: "Brianna",
     age: 26,
